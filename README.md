@@ -12,12 +12,6 @@ In this project, we were given a two files, a CSV file containing data about mus
 
 We have build a classifier for this dataset which is highly unbalanced and then deploying that model to any of the cloud services.
 
-<br>
- <h2>Model</h2>
-
-
-
-<br><br>
 
 
 <br>
